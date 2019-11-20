@@ -266,6 +266,9 @@ augroup mydelimitMate
   au FileType python let b:delimitMate_nesting_quotes = ['"', "'"]
 augroup END
 
+" ----高亮显示行列
+set cursorcolumn
+set cursorline
 
 " VOoM
 "nmap <silent> <leader>l :Voom latex<CR>

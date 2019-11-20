@@ -1,7 +1,5 @@
 - mv vimrc ~/.vimrc   # copy vimrc
 
-// install bundle
-- cd ~/.vim/bundle/
+- cd ~/.vim/bundle/  # install bundle
 - git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-// install plugins
-- vim +PluginInstall +qall
+- vim +PluginInstall +qall # install plugins
