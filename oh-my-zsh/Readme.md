@@ -1,0 +1,3 @@
+- git clone https://github.com/robbyrussell/oh-my-zsh
+- cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+- 在~/.bash_profile 中加exec zsh
