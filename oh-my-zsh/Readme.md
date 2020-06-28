@@ -2,6 +2,7 @@
 - 在~/.bash_profile 中加exec zsh
 
 cd ~/.oh-my-zsh/custom/plugins 
-https://github.com/zsh-users/zsh-syntax-highlighting.git
 
-https://github.com/zsh-users/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+
+git clone https://github.com/zsh-users/zsh-autosuggestions
